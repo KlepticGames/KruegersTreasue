@@ -1,5 +1,3 @@
-# Kruger's Treasure - VR Puzzle Game
-
 ![image](https://github.com/KlepticGames/KruegersTreasue/assets/47408756/f759e77f-5018-469d-8c65-9f09b73ec1d7)
 
 Welcome to the README for **Krugers Treasure**, a captivating VR puzzle game developed using Unity. Embark on an immersive adventure that combines challenging puzzles, breathtaking visuals, and a treasure hunt like no other.
